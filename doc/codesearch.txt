@@ -1,0 +1,7 @@
+*codesearch.txt*	For Vim version 8.0	Last change: 2020 Nov 25
+
+Plugin author: Benoit Mortgat
+                                                         *codesearch*
+Please read README.md for an example
+
+vim: readonly noexpandtab ft=help modifiable list listchars=tab\:>\ ,trail\:*
